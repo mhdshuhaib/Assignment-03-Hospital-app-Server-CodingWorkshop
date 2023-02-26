@@ -1,0 +1,17 @@
+[
+    {
+        "name": "amal",
+        "patientcount": "29",
+        "hospitellocatoin": "payyoli"
+    },
+    {
+        "name": "ananth",
+        "patientcount": "75",
+        "hospitellocatoin": "payyoli"
+    },
+    {
+        "name": "mims",
+        "patientcount": "100",
+        "hospitellocatoin": "kerala"
+    }
+]
